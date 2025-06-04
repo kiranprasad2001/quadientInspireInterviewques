@@ -1,0 +1,23 @@
+1. How to create tables
+2. How add header that appears only on first page and sub header that appears on every page. 
+3. How to add page number
+4. How do you add fields
+5. How many types of condition we can add. And What are those
+6. Difference between select by condition and inline condition
+7. Have you used interactive
+8. How do you create template in interactive
+9. How do you edit it
+10. How many pages are in in the edit
+11. How do you add blocks in interactive
+12. How do you add table in interactive
+13. How do you create blocks and template in designer
+14. Have you used scalar for development
+15. How do you deploy the forms
+16. What are all modules that you have used in designer
+17. How do you create field
+18. How do you create condition
+19. What is the difference between linked and unlinked field
+20. How do you add modules
+21. What is the process of the modules and how does the output comes
+22. Have you done any RCA and find out any solution for it. 
+

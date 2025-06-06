@@ -32,7 +32,7 @@ A collection of Quadient Inspire Interview questions. Feel free to contribute vi
 #### [[⬆]](#toc) <a name='simple'>Simple Questions:</a>
 
 1. How to create tables
-2. How add header that appears only on first page and sub header that appears on every page. 
+2. How to add header that appears only on first page and sub header that appears on every page. 
 3. How to add page number
 4. How do you add fields
 5. How many types of condition we can add. And What are those

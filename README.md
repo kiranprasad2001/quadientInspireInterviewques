@@ -12,6 +12,7 @@ A collection of Quadient Inspire Interview questions. Feel free to contribute vi
   1. [Medium Questions](#medium)
   1. [Hard Questions](#hard)
   1. [Expert Questions](#expert)
+  1. [Round2 Questions](#round2)
   1. [Fun Questions](#fun)
 
 
@@ -92,6 +93,29 @@ Describe a challenging issue you solved.
 
 
 #### [[⬆]](#toc) <a name='expert'>Expert Questions:</a>
+
+
+#### [[⬆]](#toc) <a name='round2'>Round2 Questions:</a>
+Tell me about yourself.
+Explain your recent Quadient Inspire project.
+What was your role and contribution?
+What challenges did you face?
+How did you resolve production issues?
+How do you estimate project effort?
+How do you prioritize tasks?
+How do you work with business stakeholders?
+How do you gather and clarify requirements?
+How do you collaborate with QA teams?
+How do you ensure output quality?
+How do you handle changing requirements?
+How do you mentor junior team members?
+How do you perform code and template reviews?
+How do you manage releases?
+How do you improve team productivity?
+How would you use AI in CCM workflows?
+How do you ensure customer communication accuracy?
+What would you do if a production deployment failed?
+Why should we hire you?
 
 
 #### [[⬆]](#toc) <a name='fun'>Fun Questions:</a>

@@ -23,41 +23,41 @@ A collection of Quadient Inspire Interview questions. Feel free to contribute vi
 
 #### [[⬆]](#toc) <a name='general'>General Questions:</a>
 
-* What did you learn yesterday/this week?
-* Talk about your preferred development/administration environment. (OS, Editor, Browsers, Tools etc.)
-* Tell me about the last project you worked on.
-* Tell me about the biggest mistake you've made in [some recent time period] and how you would do it differently today. What did you learn from this experience?
-* Why we must choose you?
-* Tell me about your experience with Quadient Inspire.
-* What is a Customer Communication Management (CCM) platform?
-Explain the architecture of Quadient Inspire.
-What are templates and components in Quadient Inspire?
-How do you design reusable document templates?
-How do you build communication workflows?
-How do you configure batch and on-demand document generation?
-How do you integrate data sources with Quadient Inspire?
-Explain data mapping in document composition.
-How do you troubleshoot template issues?
-How do you resolve layout defects?
-How do you handle output formatting issues?
-How do you optimize document generation performance?
-How do you ensure output accuracy?
-Explain print and digital output generation.
-How do you perform regression testing?
-How do you validate generated documents?
-How do you manage versioning of templates?
-Explain deployment and release management.
-How do you create technical documentation?
-How do you improve maintainability of templates?
-Explain a Quadient Inspire project you worked on.
-How do you debug production issues?
-How do you meet SLA requirements?
-How do you optimize high-volume document processing?
-How can AI improve document composition?
-How do you implement content validation?
-Explain intelligent data checks.
-How do you ensure data quality?
-Describe a challenging issue you solved.
+1. What did you learn yesterday/this week?
+2. Talk about your preferred development/administration environment. (OS, Editor, Browsers, Tools etc.)
+3. Tell me about the last project you worked on.
+4. Tell me about the biggest mistake you've made in [some recent time period] and how you would do it differently today. What did you learn from this experience?
+5. Why we must choose you?
+6. Tell me about your experience with Quadient Inspire.
+7. What is a Customer Communication Management (CCM) platform?
+8. Explain the architecture of Quadient Inspire.
+9. What are templates and components in Quadient Inspire?
+10. How do you design reusable document templates?
+11. How do you build communication workflows?
+12. How do you configure batch and on-demand document generation?
+13. How do you integrate data sources with Quadient Inspire?
+14. Explain data mapping in document composition.
+15. How do you troubleshoot template issues?
+16. How do you resolve layout defects?
+17. How do you handle output formatting issues?
+18. How do you optimize document generation performance?
+19. How do you ensure output accuracy?
+20. Explain print and digital output generation.
+21. How do you perform regression testing?
+22. How do you validate generated documents?
+23. How do you manage versioning of templates?
+24. Explain deployment and release management.
+25. How do you create technical documentation?
+26. How do you improve maintainability of templates?
+27. Explain a Quadient Inspire project you worked on.
+28. How do you debug production issues?
+29. How do you meet SLA requirements?
+30. How do you optimize high-volume document processing?
+31. How can AI improve document composition?
+32. How do you implement content validation?
+33. Explain intelligent data checks.
+34. How do you ensure data quality?
+35. Describe a challenging issue you solved.
 
 
 #### [[⬆]](#toc) <a name='simple'>Simple Questions:</a>
@@ -96,27 +96,26 @@ Describe a challenging issue you solved.
 
 
 #### [[⬆]](#toc) <a name='round2'>Round2 Questions:</a>
-Tell me about yourself.
-Explain your recent Quadient Inspire project.
-What was your role and contribution?
-What challenges did you face?
-How did you resolve production issues?
-How do you estimate project effort?
-How do you prioritize tasks?
-How do you work with business stakeholders?
-How do you gather and clarify requirements?
-How do you collaborate with QA teams?
-How do you ensure output quality?
-How do you handle changing requirements?
-How do you mentor junior team members?
-How do you perform code and template reviews?
-How do you manage releases?
-How do you improve team productivity?
-How would you use AI in CCM workflows?
-How do you ensure customer communication accuracy?
-What would you do if a production deployment failed?
-Why should we hire you?
-
+1. Tell me about yourself.
+2. Explain your recent Quadient Inspire project.
+3. What was your role and contribution?
+4. What challenges did you face?
+5. How did you resolve production issues?
+6. How do you estimate project effort?
+7. How do you prioritize tasks?
+8. How do you work with business stakeholders?
+9. How do you gather and clarify requirements?
+10. How do you collaborate with QA teams?
+11. How do you ensure output quality?
+12. How do you handle changing requirements?
+13. How do you mentor junior team members?
+14. How do you perform code and template reviews?
+15. How do you manage releases?
+16. How do you improve team productivity?
+17. How would you use AI in CCM workflows?
+18. How do you ensure customer communication accuracy?
+19. What would you do if a production deployment failed?
+20. Why should we hire you?
 
 #### [[⬆]](#toc) <a name='fun'>Fun Questions:</a>
 

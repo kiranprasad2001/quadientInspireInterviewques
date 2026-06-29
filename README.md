@@ -27,6 +27,36 @@ A collection of Quadient Inspire Interview questions. Feel free to contribute vi
 * Tell me about the last project you worked on.
 * Tell me about the biggest mistake you've made in [some recent time period] and how you would do it differently today. What did you learn from this experience?
 * Why we must choose you?
+* Tell me about your experience with Quadient Inspire.
+* What is a Customer Communication Management (CCM) platform?
+Explain the architecture of Quadient Inspire.
+What are templates and components in Quadient Inspire?
+How do you design reusable document templates?
+How do you build communication workflows?
+How do you configure batch and on-demand document generation?
+How do you integrate data sources with Quadient Inspire?
+Explain data mapping in document composition.
+How do you troubleshoot template issues?
+How do you resolve layout defects?
+How do you handle output formatting issues?
+How do you optimize document generation performance?
+How do you ensure output accuracy?
+Explain print and digital output generation.
+How do you perform regression testing?
+How do you validate generated documents?
+How do you manage versioning of templates?
+Explain deployment and release management.
+How do you create technical documentation?
+How do you improve maintainability of templates?
+Explain a Quadient Inspire project you worked on.
+How do you debug production issues?
+How do you meet SLA requirements?
+How do you optimize high-volume document processing?
+How can AI improve document composition?
+How do you implement content validation?
+Explain intelligent data checks.
+How do you ensure data quality?
+Describe a challenging issue you solved.
 
 
 #### [[⬆]](#toc) <a name='simple'>Simple Questions:</a>
